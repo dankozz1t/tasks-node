@@ -20,7 +20,7 @@
 
 
 ## How start? - `npm start`
-### How start without reboot? (Why is this here?..) - `npm start:dev`
+### How start without reboot? (Why is this here?..) - `npm run start:dev`
 ## How choose command? 
 * {__} - your data
 
